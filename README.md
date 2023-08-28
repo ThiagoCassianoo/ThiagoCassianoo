@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ThiagoCassianoo
-- 👀 I’m interested in  Aprender programação e especializar em data analytics 
+- 👀 I’m interested in  Aprender Gestão de projetos e especializar em data analytics 
 - 🌱 I’m currently learning  Data analytics e SQL
 - 💞️ I’m looking to collaborate on  analise de dados eficazes e indicadores de sucesso.
-- 📫 How to reach me atráves do meu linkedin  www.linkedin.com/in/thiago-cassiano-132098232/
+- 📫  meu linkedin  www.linkedin.com/in/thiago-cassiano-132098232/
 -
 
 <!---
