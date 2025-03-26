@@ -1,5 +1,3 @@
-<img src="https://github-profile-trophy.vercel.app/?username=thiagocassiano&theme=tokyonight&no-frame=true&row=2&column=3" />
-
 <h1 align="center">🚀 Olá! Sou Thiago Cassiano</h1>
 
 <p align="center">
