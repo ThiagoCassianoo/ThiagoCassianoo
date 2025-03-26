@@ -8,7 +8,7 @@
 
 ### 🧠 Sobre mim
 
-🎓 Graduando em **Ciência de Dados** – UFMS  
+🎓 Graduando em **Ciência de Dados** – Universidade Federal do Mato Grosso do Sul  
 🎯 Estudante de **Gestão de Negócios Inovadores** – Startup Academy  
 🤖 Ferramentas **Power BI, Python, SQL e Visualização de Dados**  
 📊 Foco em **Inteligência de Mercado**, **Projetos Inovadores** e **Automação**  
